@@ -1,8 +1,5 @@
-# Project2
-Binary Search implementation in C++
-
-The code executes following commands
-
+# BinarySearchTree implementation in C++
+Code executes following commands
 
 Find movie : find a movie. Your program should prompt the user and get the title and search
 the tree.
